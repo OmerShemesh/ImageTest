@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageTest</string>
+    <string name="facebook_application_id" translatable="false">164673100646938</string>
+</resources>

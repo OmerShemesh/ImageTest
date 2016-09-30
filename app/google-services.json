@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "390915348085",
+    "firebase_url": "https://imagetest-f1cfc.firebaseio.com",
+    "project_id": "imagetest-f1cfc",
+    "storage_bucket": "imagetest-f1cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390915348085:android:c69da8cda5d8542e",
+        "android_client_info": {
+          "package_name": "com.example.omer.imagetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390915348085-jlh3rnehm9pv2ptdo91784jr8i36le45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHPiRuL6HPPgOZdA625OJksLBjB6z0lc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

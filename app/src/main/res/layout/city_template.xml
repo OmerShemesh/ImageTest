@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardPreventCornerOverlap="false"
+    card_view:contentPadding="20dp"
+    android:layout_margin="5dp"
+    android:id="@+id/city"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/city_layout"
+       >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:textSize="30sp"
+            android:id="@+id/city_name"
+            android:text="test"
+            />
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_marginTop="50dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/city_image"
+            android:src="@color/cardview_dark_background"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
